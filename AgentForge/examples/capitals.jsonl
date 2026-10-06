@@ -1,0 +1,4 @@
+{"input": "Capital of France?", "expected_output": "Paris"}
+{"input": "Capital of Japan?", "expected_output": "Tokyo"}
+{"input": "Capital of India?", "expected_output": "New Delhi"}
+{"input": "Capital of Italy?", "expected_output": "Rome"}
